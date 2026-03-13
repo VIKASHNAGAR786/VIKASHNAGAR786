@@ -2,62 +2,107 @@
 <h3 align="center">Full Stack Developer | .NET • Angular • SQL Server</h3>
 
 <p align="center">
-Building scalable web applications and solving real-world problems with code.
+1+ Year Experience | Building Scalable Web Applications
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 BCA Student at **Poornima University**
-- 💻 Full Stack Developer working with **.NET, Angular & MSSQL**
-- 🌱 Currently building **AgriMandi** and **FlexiERP**
-- 📺 Teaching programming on **YouTube – largecoder**
-- ☁ Interested in **Cloud, Data Engineering & Scalable Systems**
+- 💻 Software Developer with **1+ year experience in Full Stack Development**
+- 🧑‍💼 Currently working as **Software Developer @ JPR System Pvt. Ltd.**
+- 🛠 Specialized in **.NET, ASP.NET Core, Angular, MSSQL**
+- 🌱 Building **FlexiERP (Business Management System)**
+- 🌾 Creator of **AgriMandi – Digital Marketplace for Farmers**
+- 📺 I also teach programming on **YouTube – largecoder**
+- ☁ Interested in **Cloud, System Design & Data Engineering**
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
-- C# • Java • Python • SQL
+
+`C#` `Java` `Python` `SQL` `JavaScript`
 
 **Backend**
-- ASP.NET Core • .NET 8 • REST APIs • Entity Framework
+
+`.NET 8` `ASP.NET Core` `REST APIs` `Entity Framework` `NestJS`
 
 **Frontend**
-- Angular • HTML • CSS • Tailwind • Bootstrap
+
+`Angular` `TypeScript` `HTML` `CSS` `Tailwind CSS` `Bootstrap`
 
 **Database**
-- SQL Server • MySQL
+
+`SQL Server` `MySQL`
 
 **Tools**
-- Git • GitHub • Azure • Postman
+
+`Git` `GitHub` `Azure DevOps` `Postman` `Power BI` `Figma`
 
 ---
 
-### 📌 Featured Projects
+## 💼 Professional Experience
 
-🌾 **AgriMandi**  
-Digital marketplace connecting **Farmers and Buyers**
+**Software Developer — JPR System Pvt. Ltd.**  
+📍 Jaipur | Feb 2025 – Sept 2025
 
-🏢 **FlexiERP**  
-All-in-one **ERP system for MSME businesses**
+- Built **enterprise full-stack applications** using **.NET & Angular**
+- Designed **secure REST APIs** with **JWT authentication**
+- Optimized **MSSQL queries, stored procedures & database performance**
+- Generated **PDF reports (DinkToPdf) and Excel automation (ClosedXML)**
+- Worked in **Agile/Scrum environment with CI/CD using Azure DevOps**
 
----
+**Freelance Full Stack Developer**  
+📍 Remote | Sept 2025 – Present
 
-### 📊 GitHub Stats
-
-![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKASHNAGAR786&show_icons=true&theme=tokyonight)
-
----
-
-### 🔗 Connect With Me
-
-- 💼 LinkedIn
-- 📺 YouTube: **largecoder**
-- 🌐 Portfolio
+- Built **FlexiERP – MSME Business Management System**
+- Developed **POS System for retail businesses**
+- Delivered **multiple client projects** including websites and APIs
+- Earned **₹70,000+ from freelance development**
 
 ---
 
-⭐ **Always learning. Always building.**
+## 📌 Featured Projects
+
+### 🏢 FlexiERP – Business Management System
+
+Tech Stack: **.NET 8, Angular, MSSQL, Azure**
+
+Features:
+
+- Role-based authentication (Admin / Manager / Employee)
+- Inventory & billing with GST invoice system
+- Automated **Excel & PDF reports**
+- Secure API architecture
+
+---
+
+### 🌾 AgriMandi – Farmers Marketplace
+
+Tech Stack: **.NET, Angular, MSSQL**
+
+- Connects **Farmers directly with Buyers**
+- Eliminates **middlemen**
+- Secure backend with **Entity Framework**
+- Deployed on **Microsoft Azure**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIKASHNAGAR786&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+💼 LinkedIn  
+💻 Portfolio  
+📺 YouTube – **largecoder**  
+📊 LeetCode  
+
+---
+
+⭐ *Always learning. Always building.*
