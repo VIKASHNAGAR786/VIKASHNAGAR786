@@ -1,6 +1,3 @@
-Absolutely! Here's a more **powerful, simple, and professional** version of your README. It highlights your expertise, achievements, and technical depth in a clean and impactful way. You can replace the placeholder links with your actual profiles.
-
----
 
 <h1 align="center">Hi 👋, I'm Vikash Nagar</h1>
 <h3 align="center">Full‑Stack Developer • .NET • Angular • SQL Server</h3>
